@@ -34,16 +34,4 @@ A Python-based web application that analyzes and visualizes airline market deman
 | AI Model         | LLaMA 3 via Groq                    |
 | Environment Vars | `python-dotenv` for managing secrets|
 
----
 
-## 📁 Project Structure
-###airline-demand-app/
-###├── app.py
-###├── .env # Stores your API key securely
-###├── requirements.txt
-###├── /core
-###│ ├── opensky_data.py
-###│ ├── analytics.py
-###│ ├── ai_summary.py
-###├── /ui
-###│ └── components.py
